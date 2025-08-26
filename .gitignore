@@ -1,0 +1,13 @@
+builds/
+output/
+*.iso
+*.img
+*.log
+*.swp
+*.swo
+*.DS_Store
+*.bak
+*.tmp
+node_modules/
+__pycache__/
+*.pyc
