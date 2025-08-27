@@ -2,6 +2,6 @@ NAME="tetOS"
 PRETTY_NAME="tetOS"
 ID=tetos
 BUILD_ID=rolling
-ANSI_COLOR="38;2;23;147;209"
+ANSI_COLOR="38;2;255;0;69"
 HOME_URL="https://github.com/iamnotmega/tetOS"
 LOGO=archlinux-logo
